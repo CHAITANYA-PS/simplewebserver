@@ -81,6 +81,6 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![OUTPUt](C:\Users\chait\Downloads\WEB\simplewebserver\image.png)
+![OUTPUt](image.png)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
